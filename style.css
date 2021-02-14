@@ -1,0 +1,21 @@
+iframe{
+	border: groove 1px blue;
+	padding: 50px;
+	margin: 30px;
+	border-radius: 10px;
+	background: linear-gradient(55deg,yellow,orange,red,cyan);
+}
+body{background: linear-gradient(50deg,blue,cyan);}
+img{border: groove 1px blue;
+	padding: 50px;
+	margin: 30px;
+	border-radius: 10px;
+	background: linear-gradient(55deg,yellow,orange,red,cyan);
+}
+div{
+	border: groove 25px green;
+	padding: 25px;
+	border-radius: 10px;
+	margin:25px;
+}
+h1{color: yellow}
